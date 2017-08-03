@@ -1,4 +1,4 @@
-<?php include '../view/header.php'; ?>
+<?php include '../header.php'; ?>
 <main>
     <aside>
         <h1>Categories</h1>
@@ -39,4 +39,4 @@
         </div>
     </section>
 </main>
-<?php include '../view/footer.php'; ?>
+<?php include '../footer.php'; ?>
