@@ -1,4 +1,4 @@
-<?php include '../view/header.php'; ?>
+<?php include '../header.php'; ?>
 <main>
     <h1>Product List</h1>
     <aside>
@@ -48,4 +48,4 @@
         <p><a href="?action=show_add_form">Add Product</a></p>
     </section>
 </main>
-<?php include '../view/footer.php'; ?>
+<?php include '../footer.php'; ?>
