@@ -1,4 +1,4 @@
-<?php include '../view/header.php'; ?>
+<?php include '../header.php'; ?>
 <main>
     <h1>Add Product</h1>
     <form action="index.php" method="post" id="add_product_form">
@@ -32,4 +32,4 @@
     </form>
     <p><a href="index.php?action=list_products">View Product List</a></p>
 </main>
-<?php include '../view/footer.php'; ?>
+<?php include '../footer.php'; ?>
